@@ -5,9 +5,9 @@
   "engines": {
     "node": "12.16.x"
   },
-  "scripts": {
-  "heroku-prebuild": "npm install --dev",
-  "build": "node server.js",
-  "start": "node index.js"
-}
+#  "scripts": {
+#  "heroku-prebuild": "npm install --dev",
+#  "build": "node server.js",
+#  "start": "node index.js"
+#}
 }
